@@ -6,8 +6,6 @@ export default function Home() {
   return (
     <div>
       Home
-      <Link href={"/login"}>login</Link>
-      <Counter/>
       <Chat/>
     </div>
     
